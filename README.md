@@ -34,4 +34,4 @@ I build self-hosted tools, run a Kubernetes homelab, and write firmware for smal
 
 ## 📊 Stats
 
-![Stats](https://raw.githubusercontent.com/DiverOfDark/DiverOfDark/main/profile-summary-card-output/github_dark/3-stats.svg) ![Top languages](https://raw.githubusercontent.com/DiverOfDark/DiverOfDark/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![Stats](./profile-summary-card-output/github_dark/3-stats.svg) ![Top languages](./profile-summary-card-output/github_dark/2-most-commit-language.svg)

@@ -12,6 +12,7 @@ I build self-hosted tools, run a Kubernetes homelab, and write firmware for smal
 
 | Project | What it is |
 |---|---|
+| [glitchterm](https://github.com/DiverOfDark/glitchterm) | Cyberpunk glitch-terminal watch face for the Garmin Venu 4 (Monkey C) |
 | [stackchan](https://github.com/DiverOfDark/stackchan) | Femto: Rust/ESP-IDF firmware for M5Stack StackChan, a robot butler with face tracking and voice |
 | [trmnl-cyberpunk](https://github.com/DiverOfDark/trmnl-cyberpunk) | Neo-Tokyo dashboard server for a TRMNL e-ink display (Rust) |
 | [KNOMI](https://github.com/DiverOfDark/KNOMI) | Alternative, opinionated firmware for BTT Knomi 3D-printer displays (C) |
@@ -20,6 +21,7 @@ I build self-hosted tools, run a Kubernetes homelab, and write firmware for smal
 
 | Project | What it is |
 |---|---|
+| [crier](https://github.com/DiverOfDark/crier) | Telegram channel bot: LLM-written posts for new Hacker News and Lobsters top stories (Rust) |
 | [adjutant](https://github.com/DiverOfDark/adjutant) | Agentic Markdown knowledge base for managers, works with any ACP agent (Rust) |
 | [phos](https://github.com/DiverOfDark/phos) | AI photo and video manager with face clustering and similarity grouping (Rust) |
 | [difflab](https://github.com/DiverOfDark/difflab) | Video factory on one GPU: an idea and a few photos in, a chapter of shots out (Python) |
@@ -28,6 +30,9 @@ I build self-hosted tools, run a Kubernetes homelab, and write firmware for smal
 
 | Project | What it is |
 |---|---|
+| [gjallarhorn](https://github.com/DiverOfDark/gjallarhorn) | Dashboard over Trivy Operator reports: which images to update first, CVEs, misconfigurations, RBAC (Rust + Svelte) |
+| [hugin](https://github.com/DiverOfDark/hugin) | Small homelab dashboard that discovers services from Ingress annotations, in about 10 MiB of memory (Rust) |
+| [gitimage](https://github.com/DiverOfDark/gitimage) | Git URL to running pod: a Kubernetes operator that builds images in-cluster (Rust) |
 | [cluster-desk](https://github.com/DiverOfDark/cluster-desk) | Fast desktop Kubernetes UI in Rust/egui |
 | [kata-pulse](https://github.com/DiverOfDark/kata-pulse) | cAdvisor-compatible metrics for Kata Containers (Rust) |
 | [peelbox](https://github.com/DiverOfDark/peelbox) | Builds secure Docker images out of anything (Rust) |

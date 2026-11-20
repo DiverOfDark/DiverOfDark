@@ -17,6 +17,12 @@ I build self-hosted tools, run a Kubernetes homelab, and write firmware for smal
 | [trmnl-cyberpunk](https://github.com/DiverOfDark/trmnl-cyberpunk) | Neo-Tokyo dashboard server for a TRMNL e-ink display (Rust) |
 | [KNOMI](https://github.com/DiverOfDark/KNOMI) | Alternative, opinionated firmware for BTT Knomi 3D-printer displays (C) |
 
+## 📱 Apps
+
+| Project | What it is |
+|---|---|
+| [suwa-reader](https://github.com/DiverOfDark/suwa-reader) | Native Android reader for a Suwayomi server: the server's library 1:1, offline downloads, Mihon's reader ([site](https://diverofdark.github.io/suwa-reader/)) (Kotlin) |
+
 ## 🧠 AI tools
 
 | Project | What it is |

@@ -15,7 +15,6 @@ I build self-hosted tools, run a Kubernetes homelab, and write firmware for smal
 | [glitchterm](https://github.com/DiverOfDark/glitchterm) | Cyberpunk glitch-terminal watch face for the Garmin Venu 4 (Monkey C) |
 | [stackchan](https://github.com/DiverOfDark/stackchan) | Femto: Rust/ESP-IDF firmware for M5Stack StackChan, a robot butler with face tracking and voice |
 | [trmnl-cyberpunk](https://github.com/DiverOfDark/trmnl-cyberpunk) | Neo-Tokyo dashboard server for a TRMNL e-ink display (Rust) |
-| [KNOMI](https://github.com/DiverOfDark/KNOMI) | Alternative, opinionated firmware for BTT Knomi 3D-printer displays (C) |
 
 ## 📱 Apps
 
